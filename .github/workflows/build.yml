@@ -62,9 +62,9 @@ jobs:
           - malta-be
           - mediatek-mt7622
           - mediatek-mt7623
-          - mpc85xx-generic
-          - mpc85xx-p1020
-          - mpc85xx-p2020
+#          - mpc85xx-generic
+#          - mpc85xx-p1020
+#          - mpc85xx-p2020
           - mvebu-cortexa53
           - mvebu-cortexa72
           - mvebu-cortexa9
